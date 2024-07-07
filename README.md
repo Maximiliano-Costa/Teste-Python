@@ -72,4 +72,4 @@ jupyter notebook
 #Deletando o arquivo:
 5 - os.remove('teste_renomeado.csv')
 
-Agradeço a atenção.
+Agradeço sua atenção.
