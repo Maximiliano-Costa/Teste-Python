@@ -1,7 +1,15 @@
 # Teste-Python
-Olá, irei apresentar as resoluções para os desafios apresentados no teste. A resolução foi pensada de forma a otimizar tempo de execução e melhor desempenho.
+Olá, irei apresentar as resoluções para os desafios apresentados no teste. 
+
+A resolução foi pensada de forma a otimizar tempo de execução e melhor desempenho.
+
+
 A primeira coisa a ser realizada é baixar as aplicações de python e do anaconda se você não as possuir instaladas anteriormente. 
+
+
 Após a instalação, foi criado um ambiente virtual (virtual environment) no prompt de comando do Anaconda com o nome connep.
+
+
 #Foram utilizados os seguintes comandos para criação do venv:
 create --name connep python=3.6
 
