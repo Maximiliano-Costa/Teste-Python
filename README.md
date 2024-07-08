@@ -64,7 +64,7 @@ jupyter notebook
 
 #Salvar arquivo no formato JSON:
 
-3 - datajson = df_linhas.to_json('datajson.json'
+3 - datajson = df_linhas.to_json('datajson.json')
 
 #O terceiro desafio proposto foi: Eliminar a linhas que contenham dados nulos ou em branco em qualquer posição da tabela e salvar o resultado em um arquivo excel.
 
