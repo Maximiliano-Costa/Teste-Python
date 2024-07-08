@@ -11,7 +11,8 @@ Após a instalação, foi criado um ambiente virtual (virtual environment) no pr
 
 
 #Foram utilizados os seguintes comandos para criação do venv:
-create --name connep python=3.6
+
+conda create --name connep python=3.6
 
 #Para ativar o venv foi digitado o seguinte comando:
 conda activate connep
