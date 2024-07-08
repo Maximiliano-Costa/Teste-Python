@@ -28,6 +28,8 @@ pip install pandas
 
 pip install xlrd
 
+pip install openpyxl
+
 pip install jupyter notebook
 
 #Após a instalação do jupyter notebook, digitei o comando:
