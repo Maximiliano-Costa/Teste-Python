@@ -36,7 +36,7 @@ jupyter notebook
 
 -A tela de aplicação Web do Jupyter Notebook é inicializada e comecei a resolver os problemas propostos.
 
--Dentro da pasta do venv criado, criei uma segunda pasta com o nome connep e dentro da mesma coloquei o arquivo csv  “data.csv”, disponibilizado.
+-Criei uma pasta com o nome connep e dentro da mesma coloquei o arquivo csv  “data.csv”, disponibilizado.
 
 -Abrir a pasta connep no jupyter notebook e dentro dela criei um arquivo de ipynb, clicando em: >> "new" >> python 3, conforme imagem, para iniciar as aplicações.
 
