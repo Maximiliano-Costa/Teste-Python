@@ -94,7 +94,7 @@ jupyter notebook
 
 1 - import pandas as pd
 
-2 - df_excel = pd.read_excel("data_excel.xlsx") //  df_excel = pd.read_excel("data_excel.xlsx", engine='openpyxl')
+2 - df_excel = pd.read_excel("data_excel.xlsx", engine='openpyxl')
 
 3 - df_new_excel = df_excel.iloc[:,[10,1,2,3,5,13,16,20]]
 
