@@ -74,19 +74,21 @@ jupyter notebook
 
 #Visualizar a tabela:
 
-1 - df = pd.read_csv("data.csv", sep=",")
+1 - import pandas as pd
 
-2 - display(df)
+2 - df = pd.read_csv("data.csv", sep=",")
+
+3 - display(df)
 
 #Apagar as linhas null e visualizar o resultado:
 
-3 - df = df.dropna()
+4 - df = df.dropna()
 
-4 - display(df)
+5 - display(df)
 
 #Salvar arquivo novo no formato xlsx:
 
-5 - data_excel = df.to_excel("data_excel.xlsx")
+6 - data_excel = df.to_excel("data_excel.xlsx")
 
 #O quarto desafio proposto foi: A partir desse novo arquivo, formar um outro arquivo excel com apenas os dados das colunas Suburb, Address, Rooms, Price, Postcode, Car, YearBuilt, Regionname. Onde a primeira coluna desse novo arquivo deve se a Postcode.
 
